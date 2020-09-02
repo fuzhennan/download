@@ -1,8 +1,9 @@
 package downbit;
-import fm.lizhi.downbit.thread.DownloadThread;
-import fm.lizhi.downbit.thread.LogThread;
-import fm.lizhi.downbit.util.FileUtils;
-import fm.lizhi.downbit.util.HttpUtils;
+import downbit.thread.DownloadThread;
+import downbit.thread.LogThread;
+import downbit.util.FileUtils;
+import downbit.util.HttpUtils;
+import downbit.util.HttpUtils;
 
 import java.io.*;
 import java.time.LocalDateTime;

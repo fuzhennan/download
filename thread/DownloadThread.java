@@ -1,9 +1,10 @@
 package downbit.thread;
 
 
-import fm.lizhi.downbit.DownloadMain;
-import fm.lizhi.downbit.util.FileUtils;
-import fm.lizhi.downbit.util.HttpUtils;
+import downbit.DownloadMain;
+import downbit.DownloadMain;
+import downbit.util.FileUtils;
+import downbit.util.HttpUtils;
 
 import java.io.BufferedInputStream;
 import java.io.FileNotFoundException;

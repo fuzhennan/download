@@ -1,6 +1,6 @@
 package downbit.thread;
 
-import fm.lizhi.downbit.DownloadMain;
+import downbit.DownloadMain;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.atomic.AtomicLong;
